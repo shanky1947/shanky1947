@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Shashank_Portfolio](https://user-images.githubusercontent.com/43777971/131626887-be35c47d-6046-428e-84fc-c9ad8eb12798.png)
 
