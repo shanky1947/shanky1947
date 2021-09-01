@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/shanky1947)
+
 ![Shashank GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanky1947&count_private=true&show_icons=true&include_all_commits=true)
 
 <!--
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/shanky1947)
